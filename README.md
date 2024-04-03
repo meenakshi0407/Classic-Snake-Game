@@ -14,3 +14,6 @@ Features:
 - Food generation.
 - Collision detection.
 - Score tracking.
+
+![SnakeGame](https://github.com/meenakshi0407/Classic-Snake-Game/assets/143179982/80986a71-0adf-458e-b84a-b24157f6f7af)
+

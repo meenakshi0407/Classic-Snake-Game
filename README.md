@@ -7,7 +7,6 @@ This program implements the classic Snake game using the Turtle graphics library
 
 Controls:
 - Use arrow keys to control the direction of the snake.
-- Press 'q' to quit the game.
 
 Features:
 - Snake movement.
